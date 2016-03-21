@@ -1,0 +1,46 @@
+body {background-image:url(images/rabbit.jpg); width:100%; height:100%; margin:auto; background-repeat:no-repeat; background-size:cover;}
+#logo {float:right; margin-right:25px;}
+h1 {font-family:rockwell Extra Bold; color:#F40D11; font-size:60px; padding-left: 10px; margin-top:0; margin-bottom:0; width:520px; float:right; text-align:center;}
+
+#back {background-color:white; margin:0 auto; width: 800px; height:900px;}
+#nav ul li {list-style:none; font-size:12px; font-family:candara; display:inline; padding-right:20px; padding-top:0; 
+ }
+#nav ul { padding-top:2px;padding-bottom:2px; margin:0; padding-right:10px;
+ }
+#nav ul li a:hover { font-weight:bold; color:white; background-color:black;}
+#nav ul li a {color:black; padding-right:10px; text-align:center; }
+#video {float:right; padding-right: 40px; padding-top:10px;}
+#about {width: 450px; float:right; padding-right:20px; text-align:justify; font-family:candara; font-size:15px; margin-top:20px;}
+#nav {padding-top: 0; color:white; width: 400px; float:right; text-align:center; margin-right:70px;
+}
+#party {width:450px; height: 200; float:right; padding-right: 20px; margin-top: 10px;}
+#button {float:right; width: 400; margin-top:10px; margin-right:80px; margin-bottom:10px;  }
+#partyannouncement {width: 450px; float:right; font-family:candara; margin-right:20px; font-size:12px; margin-bottom:20px;}
+#buttomnav ul li {list-style:none; font-size:12px; font-family:candara; display:inline; padding-right:30px; padding-top:0; clear:both; width:900px; }
+#buttomnav ul {margin-top:0px; padding-top:5px; }
+#buttomnav {width:800px; clear:both; text-align:center; border-top:black solid; margin-top: 40px;  }
+#footer {font-family:candara; font-size:10px; text-align:justify; color:gray; padding-right: 20px; padding-left:20px; margin-top:0; margin-bottom:10px; padding-bottom:10px;}
+
+
+
+#who {width:450px; height:300px; float:right;margin-right:20px;}
+#about { padding-bottom:10px; }
+#owner {width: 450px; margin-right:20px; float:right; height: 300px; margin-top:10px;}
+.family {font-size:12px; margin-top:0; margin-bottom:0; padding-top: 5px; padding-bottom:5px; font-family:candara; }
+.aboutcossie {padding-top:0; margin-top:0; }
+.habout {padding:0; margin:10px 0 0 0;}
+#owners p {padding-top:0; margin-top:0; padding-left: 30px; }
+#familyheading {margin-bottom:0; padding-bottom:2px; padding-left:30px;}
+#custometable table {border-style:double; border:black solid 2px; }
+table, th, td {border:black solid 2px; padding:8px; font-family:candara;}
+table th {color:white; background-color:black;}
+table {background-color:white; width: 400px; float:right; margin-top:50px; margin-bottom: 10px; }
+#costumetable {padding-right:20px; margin-right: 50px; margin-bottom:10px; padding-bottom:10px;}
+.photo {width:300px; height:200px;}
+
+
+
+
+#contact {padding-left:30px; text-align:justify; width:340px; float:right; font-family:candara; margin-bottom:400px; margin-right:70px; border:black solid 2px; margin-top:20px; background-color:#E4E1E1;   }
+#register4 {width:150px; float:right; margin-left:400px;padding-right: 200px; margin-bottom:10px;}
+.label {font-weight:bold;}

@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../cossiestyles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="back">
+    <div id="rarecolor">
+    <img id="logo" src="../images/logo.jpg">
+        <div id="nav">
+        <ul>
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="../aboutus.html">About us</a></li>
+          <li><a href="../costumes.html">Costumes</a></li>
+          <li><a href="../contactus.html">Contact us</a></li>
+        </ul>
+        </div>
+        <!-- TemplateBeginEditable name="content" --><img id="party" src="../images/party.jpg"> <img id="button" src="../images/registerbutton.jpg">
+        <div id="partyannouncement">
+          <h3 id="partyinvite">Announcements:</h3>
+          <h4>We have some cool things happening that we want people to know about: </h4>
+          <ul>
+            <li>This month you can purchase 3 drinks for the price of 2 at the bar. </li>
+            <li> First-time party-goers get a 50% discount on entry </li>
+            <li> If you get a costume custom made, your next party entry is free if you wear that costume.</li>
+            <li>Wear your costume in to KFC on Stanton street and you can get a free drink with a 21-piece bucket. Tell them you’ve been to CossiePlay! </li>
+          </ul>
+        </div>
+        <!-- TemplateEndEditable -->
+        <div id="buttomnav">
+          <ul>
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="../aboutus.html">About us</a></li>
+          <li><a href="../costumes.html">Costumes</a></li>
+          <li><a href="../contactus.html">Contact us</a></li>
+        </ul>
+    </div>
+    <div id="footer">
+	<p><strong>PARTY GUIDELINES:</strong></p>
+    <p>CossiePlay party-goers party at their own risk and are responsible for their own safety. Check with your doctor before you party hard.
+Party fees must be paid at the door. Cash or EFTPOS accepted. Credit card payments attract a 2% surcharge. Alcohol is served at the bar to over 18s only. No intoxicated persons will be served, but will be escorted to a taxi – paid by the party-goer. 
+</p>
+</div>
+    </div>
+</div>
+</body>
+</html>
