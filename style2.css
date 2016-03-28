@@ -1,0 +1,59 @@
+/* CSS Document */
+#navback {
+	width: 900px;
+	background-color:black;
+	
+}
+#nav {
+	width: 900px;
+	background-color: black;
+}
+#nav ul {
+		list-style-type:none;
+		margin:0;
+		padding:0;
+	
+}
+
+#nav ul li {
+	background-image:url(images/backcolor.jpg);
+	float:left;
+	
+}
+
+#nav ul li a {
+	display:block;
+	text-align:center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-family: candara;
+	color:white;
+	font-weight: bold;
+}
+
+a:hover {
+	background-color: red;
+}
+
+
+.pic1 {
+	diplay:block;
+	float:left;
+	margin-right: 2px; 
+	clear:left;
+	
+}
+
+#container1	{
+	width: 900px;
+	height: 400px;
+	margin-top: 100px; 
+	
+}
+
+#fullcontent {
+	background-color:green;
+	width: 900px;
+	margin: 0 auto;
+		
+}
