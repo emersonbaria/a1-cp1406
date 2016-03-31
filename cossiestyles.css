@@ -1,35 +1,37 @@
 body {background-image:url(images/rabbit.jpg); width:100%; height:100%; margin:auto; background-repeat:no-repeat; background-size:cover;}
+#backcolor {background-color:white; width: 800px; margin:0 auto; height: 950px;}
+
 p {font-family:candara;}
 h2 {font-family: candara; color: red;}
 h1 {font-family: candara; color: red;}
 h3 {font-family: candara; color: red;}
-
-
+.register { position: fixed; top: 10px; left:130px;}
 #logo {float:right; margin-right:25px;}
-h1 {font-family:rockwell Extra Bold; color:#F40D11; font-size:60px; padding-left: 10px; margin-top:0; margin-bottom:0; width:520px; float:right; text-align:center;}
 
+/*h1 {font-family:rockwell Extra Bold; color:#F40D11; font-size:60px; padding-left: 10px; margin-top:0; margin-bottom:0; width:520px; float:right; text-align:center;}*/
 #back {background-color:white; margin:0 auto; width: 800px; height:900px;}
 
+/*home page*/
 #nav ul li {list-style:none; font-size:15px; font-family:candara; display:inline;}
 #nav ul { margin:0; padding-right:10px; text-align: center;}
 #nav ul li a:hover { font-weight:bold; color:white; background-color:red;}
 #nav ul li a {color:white; text-align:center; text-decoration:none;background-color: black; padding: 5px; }
-#nav {padding-top: 0; color:white; width: 400px; float:right; text-align:center; margin-right:70px;
-}
+#nav {padding-top: 0; color:white; width: 400px; float:right; text-align:center; margin-right:70px;}
 #nav .active {background-color:red;}
-
 #video {float:right; padding-right: 40px; padding-top:10px;}
 #about {width: 450px; float:right; padding-right:20px; text-align:justify; font-family:candara; font-size:15px; margin-top:20px;}
 #party {width:450px; height: 200; float:right; padding-right: 20px; margin-top: 10px;}
-#button {float:right; width: 400; margin-top:10px; margin-right:80px; margin-bottom:10px;  }
-#partyannouncement {width: 450px; float:right; font-family:candara; margin-right:20px; font-size:12px; margin-bottom:20px;}
-#buttomnav ul li {list-style:none; font-size:12px; font-family:candara; display:inline; padding-right:30px; padding-top:0; clear:both; width:900px; }
-#buttomnav ul {margin-top:0px; padding-top:5px; }
-#buttomnav {width:800px; clear:both; text-align:center; border-top:black solid; margin-top: 40px;  }
-#footer {font-family:candara; font-size:10px; text-align:justify; color:gray; padding-right: 20px; padding-left:20px; margin-top:0; margin-bottom:10px; padding-bottom:10px;}
+#button {float:right; width: 400; margin-top:10px; margin-right:95px; margin-bottom:10px;  }
+#partyannouncement {width: 500px; float:right; font-family:candara; margin-right:20px; margin-bottom:5px; background-color: white;}
+#partyannouncement h3 {margin:2px; }
+#partyannouncement h4 {margin:2px; }
+#buttomnav ul li {list-style:none; font-size:12px; font-family:candara; display:inline; padding-right:30px; clear:both; width:900px; }
+/*#buttomnav ul {margin-top:0px; padding-top:5px; }
+#buttomnav {width:800px; clear:both; text-align:center; border-top:black solid; margin-top: 40px;  }*/
+#footer {font-family:candara; font-size:12px; text-align:justify; color:black; padding-right: 20px; padding-left:20px; margin-top:0; margin-bottom:10px; padding-bottom:10px; clear:both;}
 
 
-
+/*about us page*/
 #who {width:450px; height:300px; float:right;margin-right:20px;}
 #about { padding-bottom:10px; margin-bottom: 50px; }
 #about h2 {margin-bottom:2px; margin-top:5px;}
@@ -40,23 +42,27 @@ h1 {font-family:rockwell Extra Bold; color:#F40D11; font-size:60px; padding-left
 #owners p {padding-top:0; margin-top:0; padding-left: 30px; }
 #familyheading {margin-bottom:0; padding-bottom:2px; padding-left:30px;}
 #familyheading h2 { margin-top: 5px;}
+
+/*customes page */
 #custometable table {border-style:double; border:black solid 2px; }
-table, th, td {border:black solid 2px; padding:8px; font-family:candara;}
+table, th, td {border:black solid 2px; padding:2px; font-family:candara;}
 table th {color:white; background-color:black;}
-table {background-color:white; width: 400px; float:right; margin-top:50px; margin-bottom: 10px; }
-#costumetable {padding-right:20px; margin-right: 50px; margin-bottom:10px; padding-bottom:10px;}
-#images img {width:300px; height: 200px;}
-#images ul {list-style:none; display:block; float: left; }
+table {background-color:white; width: 400px; float:right; margin-top:10px; }
+#costumetable {padding-right:20px; margin-right: 50px; margin-bottom:5px; padding-bottom:5px;}
+#images img {width:200px; height: 120px; margin-bottom:4px; border: white 1px solid; }
+#images ul {list-style:none; float: left;  }
+#images ul li { display: inline; padding-left: 20px; }
+
 /*.photo1 {bottom: 10px; left: 10px; }
 /*.photo2 {bottom: 10px; left: 320px; }
 /*.photo3 {bottom: 10px; right: 10px; }
 /*.photo4 {bottom: 10px; right: 320px; }
 
 /*#images ul li {position: absolute; top: 10px; left: 10px; }*/
-#images {width:800px; margin-left: 50px; margin-top: 800px;  background-color: white;}
+#images {width:500px; margin-left: 255px; margin-top: 2px; }
 
 
-
+/*contact page*/
 #contact {padding-left:60px; text-align:justify; width:340px; float:right; font-family:candara; margin-bottom:10px; margin-right:50px; margin-top:20px;    }
 #register4 {width:150px; float:left; margin-bottom:10px; margin-top: 20px; margin-left: 20px;   }
 .label {font-weight:bold;}
@@ -65,5 +71,4 @@ table {background-color:white; width: 400px; float:right; margin-top:50px; margi
 #guidelines p {margin:5px;}
 #guidelines ul {margin-bottom: 2px; }
 .paymentmethod {margin-left: 30px; margin-bottom: 20px; margin-top: 2px; }
-#backcolor {background-color:white; width: 800px; margin:0 auto; height: 1300px;}
 
