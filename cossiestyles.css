@@ -23,7 +23,7 @@ h3 {font-family: candara; color: red;}
 #about {width: 450px; float:right; padding-right:20px; text-align:justify; font-family:candara; font-size:15px; margin-top:20px;}
 #party {width:450px; height: 200; float:right; padding-right: 20px; margin-top: 10px;}
 #button {float:right; width: 400; margin-top:10px; margin-right:95px; margin-bottom:10px;  }
-#partyannouncement {width: 500px; float:right; font-family:candara; margin-right:20px; margin-bottom:5px; background-color: white;}
+#partyannouncement {width: 750px; float:left; font-family:candara; margin-bottom:5px; background-color: white; padding: 0 10px;}
 #partyannouncement h3 {margin:2px; }
 #partyannouncement h4 {margin:2px; }
 #buttomnav ul li {list-style:none; font-size:12px; font-family:candara; display:inline; padding-right:30px; clear:both; width:900px; }
