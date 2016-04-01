@@ -29,7 +29,7 @@ h3 {font-family: candara; color: red;}
 #buttomnav ul li {list-style:none; font-size:12px; font-family:candara; display:inline; padding-right:30px; clear:both; width:900px; }
 /*#buttomnav ul {margin-top:0px; padding-top:5px; }
 #buttomnav {width:800px; clear:both; text-align:center; border-top:black solid; margin-top: 40px;  }*/
-#footer {font-family:candara; font-size:12px; text-align:justify; color:black; padding-right: 20px; padding-left:20px; margin-top:0; margin-bottom:10px; padding-bottom:10px; clear:both;}
+#footer {font-family:candara; font-size:12px; text-align:justify; color:black; padding-right: 20px; padding-left:20px; margin-top:0; margin-bottom:10px; padding-bottom:10px; clear:both; black 1px solid;}
 
 
 /*about us page*/
